@@ -1,4 +1,3 @@
-@ExperimentalStdlibApi
 fun main() {
 	fun Char.getPriority(): Int = when {
 		isUpperCase() -> this - 'A' + 27
