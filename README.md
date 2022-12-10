@@ -17,8 +17,7 @@ delivered by JetBrains.
 |  7  | ⭐ <br/> Time 05:22:02 <br/>Rank 24311<br/> Score 0 | ⭐ <br/> Time 05:32:38 <br/>Rank 23010<br/> Score 0 ||
 |  8  | ⭐ <br/> Time 05:28:40 <br/>Rank 31331<br/> Score 0 | ⭐ <br/> Time 05:57:03 <br/>Rank 26454<br/> Score 0 ||
 |  9  | ⭐ <br/> Time 04:31:23 <br/>Rank 22195<br/> Score 0 | ⭐ <br/> Time 04:47:08 <br/>Rank 16030<br/> Score 0 ||
-
-
+| 10  | ⭐ <br/> Time 09:08:52 <br/>Rank 34946<br/> Score 0 | ⭐ <br/> Time 10:12:58 <br/>Rank 32254<br/> Score 0 ||
 
 # Demos
 
