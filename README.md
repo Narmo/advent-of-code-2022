@@ -6,8 +6,8 @@ delivered by JetBrains.
 
 # Stats
 
-| Day |                       Part 1                       |                       Part 2                       | Notes |
-|:---:|:--------------------------------------------------:|:--------------------------------------------------:|-------|
+| Day |                       Part 1                       |                       Part 2                       | Notes        |
+|:---:|:--------------------------------------------------:|:--------------------------------------------------:|--------------|
 |  1  | ⭐ <br/> Time 10:30:27 <br/>Rank 73594<br/> Score 0 | ⭐ <br/> Time 10:37:53 <br/>Rank 70042<br/> Score 0 ||
 |  2  | ⭐ <br/> Time 05:09:51 <br/>Rank 50868<br/> Score 0 | ⭐ <br/> Time 05:33:04 <br/>Rank 48092<br/> Score 0 ||
 |  3  | ⭐ <br/> Time 10:18:51 <br/>Rank 65969<br/> Score 0 | ⭐ <br/> Time 10:36:22 <br/>Rank 60585<br/> Score 0 ||
@@ -18,6 +18,7 @@ delivered by JetBrains.
 |  8  | ⭐ <br/> Time 05:28:40 <br/>Rank 31331<br/> Score 0 | ⭐ <br/> Time 05:57:03 <br/>Rank 26454<br/> Score 0 ||
 |  9  | ⭐ <br/> Time 04:31:23 <br/>Rank 22195<br/> Score 0 | ⭐ <br/> Time 04:47:08 <br/>Rank 16030<br/> Score 0 ||
 | 10  | ⭐ <br/> Time 09:08:52 <br/>Rank 34946<br/> Score 0 | ⭐ <br/> Time 10:12:58 <br/>Rank 32254<br/> Score 0 ||
+| 11  | ⭐ <br/> Time 15:49:14 <br/>Rank 41108<br/> Score 0 |   ⭐ <br/> Time >24h <br/>Rank 48842<br/> Score 0   | F*** monkeys |
 
 # Demos
 
