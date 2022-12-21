@@ -21,6 +21,7 @@ delivered by JetBrains.
 | 11 | ⭐ <br/> Time 15:49:14 <br/>Rank 41108<br/> Score 0 |   ⭐ <br/> Time >24h <br/>Rank 48842<br/> Score 0   | F*** monkeys |
 | 12 |   ⭐ <br/> Time >24h <br/>Rank 42331<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 42665<br/> Score 0   |              |
 | 13 |   ⭐ <br/> Time >24h <br/>Rank 43334<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 42335<br/> Score 0   |              |
+| 14 |   ⭐ <br/> Time >24h <br/>Rank 40850<br/> Score 0   |   ⭐ <br/> Time >24h <br/>Rank 40077<br/> Score 0   |              |
 
 # Demos
 

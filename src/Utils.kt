@@ -76,3 +76,10 @@ fun textToGraphics(text: String, fileName: String) {
 		e.printStackTrace()
 	}
 }
+
+fun benchmark(block: () -> Unit) {
+	val start = System.currentTimeMillis()
+	block()
+	val end = System.currentTimeMillis()
+	println("Took ${end - start}ms")
+}
